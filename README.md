@@ -43,5 +43,9 @@ I’ll be putting my Wireshark skills to the test
 
 <div>Answer: 90</div>
 
+### 4. What is the IP address of the host which sent the most number of bytes?
+- Go to Statistics > Endpoints > IPv4 > click Tx Bytes (transmit bytes) to display the results in descending order.
+  <div><img width="374" alt="image" src="https://github.com/user-attachments/assets/1b0c5dc2-24e0-4f6d-b869-dc13e1f9371b" /></div>
+<div>Answer: 115.178.9.18</div>
 
 
