@@ -20,10 +20,8 @@ I’ll be putting my Wireshark skills to the test
 - VirtualBox used as the virtual machine platform to simulate the environment for traffic analysis, ensuring a controlled and isolated space for investigation.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+### 1. Which protocol was used over port 3942?
+Go to Statistics > Endpoints > UDP > Right click on the line with port 3942 > apply as filter > selected. Then return to the main screen of wireshark and check the protocol.
+<div><img width="373" alt="image" src="https://github.com/user-attachments/assets/251e8f7e-7a77-4df8-b94e-29e702c7227c" /></div>
+Answer: SSDP
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
